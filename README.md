@@ -10,7 +10,7 @@ objective test and real-world problems.
 
 ![Robust_MOO](https://github.com/deepanshuIITM/MaORO/assets/137225940/14c13226-30b6-4c55-845e-eb8b7f47e61d)  ![NSGA-IIIa](https://github.com/deepanshuIITM/MaORO/assets/137225940/ce2cb865-18d7-4a39-9a8e-f3a444252416)
 
-Fig. Concept of Robust Optimization                                                           Fig. Concept of NSGA-III
+Fig. Concept of Robust Optimization Fig. Concept of NSGA-III
 
 
 
