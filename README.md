@@ -1,7 +1,7 @@
 # MaORO
-Many Objective Robust Optimization using Evolutionary Algorithm
+## Many Objective Robust Optimization using Evolutionary Algorithm
 
-Preliminary Requirements:
+**Preliminary Requirements:**
 
 [1] _pymoo_ toolbox by Julian Blank.
 
