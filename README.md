@@ -1,9 +1,9 @@
 # MaORO
+## Many Objective Robust Optimization using Evolutionary Algorithm
+
 <img src="https://github.com/deepanshuIITM/MaORO/assets/137225940/a0998f23-9433-4f1a-8090-0f1fb0e6a840" alt="image" width="500" height="500">
 
 **Four different cases of obtaining robust front**
-
-## Many Objective Robust Optimization using Evolutionary Algorithm
 
 ## Preliminary Requirements:
 
