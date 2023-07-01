@@ -1,12 +1,13 @@
 # MaORO
+<img src="https://github.com/deepanshuIITM/MaORO/assets/137225940/582769b3-e717-45a6-9abd-1f0794089eba" alt="image" width="500" height="500">
+
+**Four different cases of obtaining robust front**
+
 ## Many Objective Robust Optimization using Evolutionary Algorithm
 
-![ND-Solns -4](https://github.com/deepanshuIITM/MaORO/assets/137225940/582769b3-e717-45a6-9abd-1f0794089eba)
+## Preliminary Requirements:
 
-
-**Preliminary Requirements:**
-
-[1] _pymoo_ toolbox by Julian Blank.
+[1] _pymoo_ toolbox by Julian Blank [1].
 
 [2] NSGA-III concept has been used from [2].
 
