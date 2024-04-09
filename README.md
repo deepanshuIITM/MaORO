@@ -7,11 +7,11 @@
 
 ## Preliminary Requirements:
 
-[1] _pymoo_ toolbox by Julian Blank [1].
+    [1]. _pymoo_ toolbox by Julian Blank [1].
 
-[2] NSGA-III concept has been used from [2].
+    [2]. NSGA-III concept has been used from [2].
 
-[3] The definition of robustness is given in [3].
+    [3]. The definition of robustness is given in [3].
 
 The limitation of NSGA-II in generating well-distributed and diverse set solutions for many-
 objective optimization, the robust optimization concept must be extended with evolutionary 
@@ -38,10 +38,14 @@ objective test and real-world problems.
 
 **References:**
 
-[1]. Blank, J., & Deb, K. (2020). Pymoo: Multi-objective optimization in python. IEEE Access, 8, 89497-89509.
+    [1]. Blank, J., & Deb, K. (2020). Pymoo: Multi-objective optimization in python. IEEE Access, 8, 89497-89509.
 
-[2]. Deb, K., & Jain, H. (2013). An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, part I: solving problems with box constraints. IEEE transactions on evolutionary computation, 18(4), 577-601.
+    [2]. Deb, K., & Jain, H. (2013). An evolutionary many-objective optimization algorithm using reference-point-based 
+          nondominated sorting approach, part I: solving problems with box constraints. IEEE transactions on evolutionary 
+          computation, 18(4), 577-601.
 
-[3]. Deb, Kalyanmoy, and Himanshu Gupta. "Searching for robust Pareto-optimal solutions in multi-objective optimization." Evolutionary Multi-Criterion Optimization: Third International Conference, EMO 2005, Guanajuato, Mexico, March 9-11, 2005. Proceedings 3. Springer Berlin Heidelberg, 2005.
+    [3]. Deb, Kalyanmoy, and Himanshu Gupta. "Searching for robust Pareto-optimal solutions in multi-objective optimization."
+         Evolutionary Multi-Criterion Optimization: Third International Conference, EMO 2005, Guanajuato, Mexico, 
+         March 9-11, 2005. Proceedings 3. Springer Berlin Heidelberg, 2005.
 
 
